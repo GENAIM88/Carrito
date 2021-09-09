@@ -1,0 +1,37 @@
+[{
+        "precio": 50,
+        "id": 1,
+        "title": "Weed normal",
+        "thumbnailUrl": "https://cdn.pixabay.com/photo/2021/02/15/20/26/weed-6018974_960_720.jpg"
+    },
+    {
+        "precio": 200,
+        "id": 2,
+        "title": "Extasis",
+        "thumbnailUrl": "https://cdn.pixabay.com/photo/2014/02/03/11/51/medicine-257349_960_720.jpg"
+    },
+    {
+        "precio": 500,
+        "id": 3,
+        "title": "Metanfetamina",
+        "thumbnailUrl": "https://cdn.pixabay.com/photo/2021/01/29/12/39/methamphetamine-5960885_960_720.jpg"
+    },
+    {
+        "precio": "No se vende",
+        "id": 4,
+        "title": "Sus ojitos hermosos",
+        "thumbnailUrl": "https://cdn.pixabay.com/photo/2016/12/19/21/36/woman-1919143_960_720.jpg"
+    },
+    {
+        "precio": "Ta gratis",
+        "id": 5,
+        "title": "Lolcito",
+        "thumbnailUrl": "https://i.blogs.es/bf5ad0/league-of-legends-destacada/1366_2000.jpeg"
+    },
+    {
+        "precio": "Igual gratis UwU",
+        "id": 6,
+        "title": "Rolitas del santa fe",
+        "thumbnailUrl": "https://i.ytimg.com/vi/6YsEip1CtNc/maxresdefault.jpg"
+    }
+]
